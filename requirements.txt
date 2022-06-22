@@ -1,4 +1,4 @@
 certifi==2018.8.24
-numpy==1.18.3
+numpy==1.22.0
 opencv-python==4.2.0.34
 scipy==1.4.1
